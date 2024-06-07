@@ -107,7 +107,7 @@ You might have a slightly different result due to randomness...
 
 ## FINAL AMRK
 
-### MARK: 93 / 93 (100%)
+### MARK: 44 / 44 (100%)
 
 -   1 cluster (4 / 4)
 -   2 clusters (22 / 22)
